@@ -1,6 +1,6 @@
 ## SPY Moving Average Crossover Backtest
 
-![Backtest Results](results/equity_curve.png)
+
 
 A Backtrader-based implementation of a 50/200 SMA crossover strategy for SPY (2010-2023).
 
